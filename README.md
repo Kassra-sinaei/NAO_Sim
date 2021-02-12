@@ -2,5 +2,5 @@
 Simulating NAO robot on soft Ground using pyBullet <br>
 
 <b>Instaling Dependencies</b><br>
-    pip3 install pybullet </br>
-    pip3 install --user qibullet
+<t>    pip3 install pybullet </t></br>
+<t>    pip3 install --user qibullet</t>
